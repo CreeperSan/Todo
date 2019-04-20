@@ -1,0 +1,5 @@
+./todo-server/target
+./todo-server/.idea
+./todo-server/.gradle
+./todo-server/build
+./todo-server/out
